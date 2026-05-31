@@ -2,6 +2,26 @@
 
 A full-stack MERN course selling platform where instructors can publish courses and students can browse and purchase them.
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](Home%20Page.png)
+
+### Signup Page
+![Signup Page](Signup%20Page.png)
+
+### Login Page
+![Login Page](Login%20Page.png)
+
+### My Courses
+![My Courses](My%20Courses.png)
+
+### Admin - Create Course
+![Admin Create Course](Admin%20create%20course.1.png)
+![Admin Create Course 2](Admin%20create%20course%20.2.png)
+
+---
+
 ## 🚀 Features
 
 - 🔐 User authentication with JWT and bcrypt password hashing
