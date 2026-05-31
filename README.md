@@ -40,3 +40,18 @@ A full-stack MERN course selling platform where instructors can publish courses 
 **Tools:** Postman, Thunder Client, Git, GitHub, VS Code
 
 ## 📁 Project Structure
+```
+course-selling-app/
+├── backend/
+│   ├── controllers/      # Business logic (auth, courses, payments)
+│   ├── middleware/       # Auth & role-based access
+│   ├── models/           # MongoDB schemas (User, Course, Purchase)
+│   ├── routes/           # API endpoints
+│   └── server.js         # Entry point
+└── frontend/
+    ├── src/
+    │   ├── components/   # Reusable components (Navbar)
+    │   ├── pages/        # Page components (Home, Login, etc.)
+    │   └── services/     # API integration (Axios)
+    └── package.json
+```
